@@ -1,1 +1,1 @@
-# Detail Design
+# Detailed Design
